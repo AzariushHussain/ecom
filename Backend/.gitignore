@@ -1,0 +1,40 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+bower_components/
+
+# Build output
+dist/
+build/
+
+# IDE/editor directories and files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables file
+.env
+
+# Coverage output
+coverage/
+
+# Debugging files
+.pnp/
+.pnp.js
+
+# Optional npm cache directory
+.npm/
+
+# Package-lock and yarn.lock files (if you use a specific lock file version management)
+package-lock.json
+yarn.lock
